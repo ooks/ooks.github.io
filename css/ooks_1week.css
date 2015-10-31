@@ -1,0 +1,55 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.concon {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.header{
+    margin: 150px 0;
+    /* 150 위아래 0은 좌우 */
+    text-align: center;
+    /* 텍스트 정렬을 다시 잡아야 함 */
+}
+
+.title{
+    font-size: 46px;
+    font-weight: 700;
+    /* line로 불러온 폰트 속성 300,700... */
+    line-height: 1.5;
+}
+
+.sub-title{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+
+/*컨텐츠 영역*/
+
+.item-header{
+    text-align: center;
+}
+
+.imte-img-content{
+    text-align: center;
+}
+.item-title{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.item-time{
+    font-size: 12px;
+    font-weight: 400;
+    color: #555555;
+}
